@@ -10,7 +10,7 @@ if you put in your account, it will connect to your own domain!
 2) To start the ngrok tunnel you need to cd to the current path in terminal, and type "./ngrok http 80"  
 3) Before using please install "Safari. Cause the program "update_url" is base on "safaridriver".  
 # Expandability
-If you need to put on your own site on your server, you'll need to modify the folder"server".(you can still use html and css to develop the web page)  
+If you need to put on your own site on your server, you'll need to modify "flask.py".(you can still use html and css to develop the web page)  
 # Author
 Author: Timothychen(陳澤榮)
 Email: tiomthychenpc@gmail.com
