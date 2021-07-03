@@ -11,7 +11,7 @@ flask(在80端口開啟一個本地伺服器)-》ngrok（在公網ip和本地伺
 例如：timothychen.tk（一年免費期）  
 這邊的域名就根據使用者所輸入的帳號確定（在freenom註冊）  
 # 擴充性
-可以自由修改“server”資料夾中的flask伺服器以改變網頁內容（html和css也都可以使用）  
+可以自由修改"flask.py"flask伺服器以改變網頁內容（html和css也都可以使用）  
 # 作者
 Timothychen(陳澤榮)  
 timothychenpc@gmail.com  
